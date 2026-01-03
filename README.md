@@ -10,7 +10,7 @@ I work across the **full JavaScript stack**, from creating dynamic UIs with **Re
 
 - 💻 JavaScript Developer focused on **scalable web applications**
 - ⚡ Specialize in **performance optimization** and **modern web architecture**
-- 🧠 Advocate for **type-safe and maintainable code**
+- 🧠 Write **type-safe and maintainable code** using TypeScript
 - 🎨 Passionate about creating **clean and reusable components**
 - 🔁 Comfortable with **full-stack development** and API integration
 
