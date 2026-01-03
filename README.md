@@ -22,3 +22,11 @@ I work across the **full JavaScript stack**, from creating dynamic UIs with **Re
 - **Reusable component libraries** and modular architectures  
 - **Type-safe integration** between frontend and backend  
 - **SEO-friendly and high-performance web applications**
+
+- 
+🤝 Connect With Me
+🌐 Portfolio: https://bhaskar-profile.vercel.app/
+
+💼 LinkedIn: https://www.linkedin.com/in/bhaskar-k-502a42203/
+
+
