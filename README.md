@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm BHASKAR
 
-I am a **JavaScript Developer** passionate about building **fast, scalable, and maintainable web platforms** using **modern JavaScript technologies**.
+I am a **Frontend Developer** passionate about building **fast, scalable, and maintainable web platforms** using **modern JavaScript technologies**.
 
 I work across the **full JavaScript stack**, from creating dynamic UIs with **React & Next.js** to building robust backend APIs with **Node.js & Express**.
 
