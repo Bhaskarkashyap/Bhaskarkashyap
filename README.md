@@ -1,23 +1,24 @@
 ## Hi there! 👋 I'm BHASKAR
 
-Frontend Engineer focused on building **web applications** using **React, Next.js, and TypeScript**.
+I am a **JavaScript Developer** passionate about building **fast, scalable, and maintainable web platforms** using **modern JavaScript technologies**.
 
-I enjoy working at the intersection of **UI, performance, and developer experience**, and I care deeply about clean code, accessibility, and long-term maintainability.
+I work across the **full JavaScript stack**, from creating dynamic UIs with **React & Next.js** to building robust backend APIs with **Node.js & Express**.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Frontend Engineer specializing in **React & Next.js**
-- ⚡ Strong focus on **performance optimization** and **SEO**
-- 🧠 Advocate for **type-safe development**
-- 🎨 Passionate about clean UI and reusable component systems
-- 🔁 Comfortable working across frontend and API layers
+- 💻 JavaScript Developer focused on **scalable web applications**
+- ⚡ Specialize in **performance optimization** and **modern web architecture**
+- 🧠 Advocate for **type-safe and maintainable code**
+- 🎨 Passionate about creating **clean and reusable components**
+- 🔁 Comfortable with **full-stack development** and API integration
 
-- ## 💡 What I Work On
 
-- Building **SEO-friendly** and **performance-optimized** web apps  
-- Creating **scalable frontend architectures**  
-- Designing **reusable UI components**  
-- Integrating **type-safe APIs**  
-- Converting **Figma designs into pixel-perfect UI**
+## 💡 What I Build
+
+- **Fast and scalable web platforms** with React & Next.js  
+- **Robust backend APIs** with Node.js and Express  
+- **Reusable component libraries** and modular architectures  
+- **Type-safe integration** between frontend and backend  
+- **SEO-friendly and high-performance web applications**
