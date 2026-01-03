@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm BHASKAR
 
-Frontend Engineer focused on building **modern, scalable, and high-performance web applications** using **React, Next.js, and TypeScript**.
+Frontend Engineer focused on building **web applications** using **React, Next.js, and TypeScript**.
 
 I enjoy working at the intersection of **UI, performance, and developer experience**, and I care deeply about clean code, accessibility, and long-term maintainability.
 
